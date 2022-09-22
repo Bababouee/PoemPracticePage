@@ -1,0 +1,103 @@
+* {
+  margin: 0 0;
+  padding: 0 0;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background-image: url("img/rain.gif");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: rgb(43, 43, 43);
+}
+
+.audio_src {
+  align-content: center;
+}
+
+.author {
+  text-indent: 345px;
+  padding-bottom: 48px;
+}
+
+.hero-text {
+  text-indent: 185px;
+  padding-bottom: 12px;
+}
+
+.comes {
+  text-indent: 180px;
+}
+
+.laughter_with {
+  text-indent: 310px;
+}
+
+.children {
+  text-indent: 310px;
+}
+
+.all_your_heart {
+  text-indent: 224px;
+}
+
+.soothed {
+  text-indent: 310px;
+}
+
+.dressed {
+  text-indent: 310px;
+}
+
+.be_near_closer {
+  padding-bottom: 24px;
+}
+
+.be_near_me {
+  padding-bottom: 12px;
+}
+
+.poem_1 {
+  text-indent: 140px;
+  position: static;
+}
+
+.because_i_liked_you_better {
+  text-indent: 99px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+p.poem_two > span {
+  padding-left: 20px;
+}
+
+#poem {
+  padding-left: 235px;
+  padding-bottom: 24px;
+  position: static;
+}
+
+.roses {
+  background: url(img/rose_1.png) no-repeat center center fixed;
+  background-size: cover;
+}
+
+audio {
+  padding-left: 171px;
+  position: relative;
+}
+
+#poem_3 {
+  padding-left: 225px;
+  padding-bottom: 24px;
+  position: static;
+}
